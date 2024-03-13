@@ -2,7 +2,7 @@
 
 **`Aspiring Engineer in the Data sphere`**
 
-I'm a student doing my Masters in Data Science and Analytics. While I try to navigate my way through the age of Data and AI, I will be attempting to build projetcs from the groundup. I will embark on a deep learning curve, where I will enconter and actively pursue interests belong my scope in the pursuit of knowledge. I hope I can build a long and lasting brifge between my passion and a career.
+I'm a student doing my Masters in Data Science and Analytics. While I try to navigate my way through the age of Data and AI, I will be attempting to build projetcs from the groundup. I will embark on a deep learning curve, where I will enconter and actively pursue interests which belong to my scope in the pursuit of knowledge. I hope I can build a long and lasting brifge between my passion and a career.
 
 You can contact me at [allensam2012@gmail.com](mailto:allensam2012@gmail.com)
 
